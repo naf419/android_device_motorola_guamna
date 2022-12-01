@@ -15,6 +15,7 @@ insmod $module_path/moto_f_usbnet.ko
 insmod $module_path/himax_v3_mmi_hx83102d.ko
 insmod $module_path/himax_v3_mmi.ko
 insmod $module_path/chipone_tddi_mmi.ko
+insmod $module_path/ili9882_mmi.ko
 insmod $module_path/qpnp_adaptive_charge.ko
 insmod $module_path/qpnp-power-on-mmi.ko
 

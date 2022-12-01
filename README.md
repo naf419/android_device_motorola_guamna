@@ -4,7 +4,11 @@
 
 Current state of features (from [here](https://twrp.me/faq/OfficialMaintainer.html)):
 
-Tested against stock guamna android 11 rom
+Tested on system running stock guamna android 11 rom
+
+Touchscreens tested:
+- ilitek
+- himax
 
 ### Blocking checks
 
